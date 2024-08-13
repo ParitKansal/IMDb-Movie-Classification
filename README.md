@@ -36,6 +36,3 @@ The goal of this project is to develop a system that can accurately classify IMD
 
 ### Outcome:
 The project successfully develops a model that achieves an accuracy of 54% in movie classification using Approach 3 with pretrained Word2Vec and bidirectional LSTM, demonstrating the effectiveness of different machine learning techniques in classification.
-
-![App Screenshot](https://paritkansal121.odoo.com/web/image/332-420a8530/dataset-cover2.webp)
-
